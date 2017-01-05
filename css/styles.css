@@ -1,0 +1,23 @@
+img {
+  width: 60%;
+  height: auto;
+}
+
+div.animal {
+  float:left;
+  width: 50%;
+
+}
+
+div.sidebar {
+  float: right;
+  width: 30%;
+  clear: both;
+
+}
+
+div.paragraph {
+
+width: 70%;
+float:left;
+}
